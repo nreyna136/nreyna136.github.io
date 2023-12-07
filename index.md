@@ -4,7 +4,7 @@ This is my home page! My name is Noemi Reyna -Arevalo and I am a student at [Cal
 
 ## Computer Science Projects
 
-My GitHub page is http://github.com/nreyna136 .
+My GitHub page is (http://github.com/nreyna136) .
 
 ### CPSC 120
 
